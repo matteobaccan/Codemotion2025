@@ -43,3 +43,19 @@ Di seguito le versioni rielaborate del banner originale in diversi stili artisti
 - [`Banner stile Fine '800`](banner/cosa-ci-sta-cambiando-sotto-ai-piedi-lai-ci-rube_cassani-baccan_1036091_banner_fine800.png) — Versione in stile pittorico di fine Ottocento
 - [`Banner stile Simpson`](banner/cosa-ci-sta-cambiando-sotto-ai-piedi-lai-ci-rube_cassani-baccan_1036091_banner_simpson.png) — Versione ispirata allo stile dei Simpson
 - [`Banner stile South Park`](banner/cosa-ci-sta-cambiando-sotto-ai-piedi-lai-ci-rube_cassani-baccan_1036091_banner_southpark.png) — Versione ispirata allo stile di South Park
+
+## Foto dell'intervento
+
+Alcune foto scattate durante l'intervento al Codemotion Milan 2025 con Matteo Baccan e Alexio Cassani.
+
+![Alexio da vicino](Alexio%20da%20vicino.jpg)
+*Alexio Cassani durante l'intervento*
+
+![Alexio](Alexio.jpg)
+*Alexio Cassani sul palco*
+
+![Matteo che parla di AI](matteo%20che%20parla%20di%20AI.jpg)
+*Matteo Baccan presenta il tema dell'intelligenza artificiale*
+
+![Matteo in bianco e nero](matteo%20in%20bianco%20e%20nero.jpg)
+*Matteo Baccan durante la presentazione*
