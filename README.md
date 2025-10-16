@@ -6,7 +6,7 @@ Link al post di annuncio su LinkedIn:
 
 https://www.linkedin.com/posts/matteobaccan_codemotion-magazine-codemotion-activity-7378843428878553088-O5BO/
 
-## #CodemotionMilan 2025: cosa mi è rimasto
+## CodemotionMilan 2025: cosa mi è rimasto
 
 Se c'è un posto nel mio cuore è quello dedicato a #Codemotion
 
@@ -20,9 +20,7 @@ Non posso dimenticare Arnaldo Morena e Luca Fregoso che hanno coinvolto me e Ale
 
 E ringrazio chi ha contribuito, con le sue foto, a poter chiudere il progetto GitHub dell'intervento con qualcosa di più tangibile che delle semplici slide: grazie Umberto Mangiardi di Euroged che col suo post mi ha fatto capire di quanto, quel poco che faccio, possa essere apprezzato da altre persone e grazie per le foto.
 
-E vorrei terminare il mio intervento con una riflessione:
-
-più passerà il tempo e più l'AI correrà veloce e come programmatori ci sentiremo l'anello debole della catena, ma come dice Stanisław Jerzy Lec:
+E vorrei terminare il mio intervento con una riflessione: più passerà il tempo e più l'AI correrà veloce e come programmatori ci sentiremo l'anello debole della catena, ma come dice Stanisław Jerzy Lec:
 
 "L'anello più debole della catena è anche il più forte perché può romperla."
 
