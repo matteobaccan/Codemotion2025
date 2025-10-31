@@ -57,3 +57,10 @@ Alcune foto scattate durante l'intervento al Codemotion Milan 2025 con Matteo Ba
 
 ![Matteo in bianco e nero](matteo%20in%20bianco%20e%20nero.jpg)
 *Matteo Baccan durante la presentazione*
+
+## Votazione
+
+Come tutti gli interventi di Codemotion, anche questo è stato sottoposto a votazione da parte del pubblico. 
+Questo è il risultato finale:
+
+![Votazione Codemotion 2025](votazione.png)
