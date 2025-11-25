@@ -58,6 +58,16 @@ Alcune foto scattate durante l'intervento al Codemotion Milan 2025 con Matteo Ba
 ![Matteo in bianco e nero](matteo%20in%20bianco%20e%20nero.jpg)
 *Matteo Baccan durante la presentazione*
 
+### Altre foto `-MD`
+
+Queste immagini sono le versioni ottimizzate o aggiuntive con suffisso `-MD` presenti nella root del repository.
+
+- ![0904-MD](0904-MD.jpg) — Scatto 0904 (versione MD)
+- ![0942-MD](0942-MD.jpg) — Scatto 0942 (versione MD)
+- ![0944-MD](0944-MD.jpg) — Scatto 0944 (versione MD)
+- ![0945-MD](0945-MD.jpg) — Scatto 0945 (versione MD)
+- ![0946-MD](0946-MD.jpg) — Scatto 0946 (versione MD)
+
 ## Votazione
 
 Come tutti gli interventi di Codemotion, anche questo è stato sottoposto a votazione da parte del pubblico. 
