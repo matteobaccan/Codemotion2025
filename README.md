@@ -62,11 +62,11 @@ Alcune foto scattate durante l'intervento al Codemotion Milan 2025 con Matteo Ba
 
 Queste immagini sono le versioni ottimizzate o aggiuntive con suffisso `-MD` presenti nella root del repository.
 
-- ![0904-MD](0904-MD.jpg) — Scatto 0904 (versione MD)
-- ![0942-MD](0942-MD.jpg) — Scatto 0942 (versione MD)
-- ![0944-MD](0944-MD.jpg) — Scatto 0944 (versione MD)
-- ![0945-MD](0945-MD.jpg) — Scatto 0945 (versione MD)
-- ![0946-MD](0946-MD.jpg) — Scatto 0946 (versione MD)
+![0904-MD](0904-MD.jpg) — Scatto 0904 (versione MD)
+![0942-MD](0942-MD.jpg) — Scatto 0942 (versione MD)
+![0944-MD](0944-MD.jpg) — Scatto 0944 (versione MD)
+![0945-MD](0945-MD.jpg) — Scatto 0945 (versione MD)
+![0946-MD](0946-MD.jpg) — Scatto 0946 (versione MD)
 
 ## Votazione
 
